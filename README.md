@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saikat Singha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
+![](https://scontent.fcgp3-2.fna.fbcdn.net/v/t1.6435-9/71799245_2499329897010082_1831445076593606656_n.jpg?stp=dst-jpg_p720x720&_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEjvQDS5-JB7hHdSjWUbdPBNUzXJT6IloQ1TNclPoiWhPXcglUcUgDfWaCzKa3Ikq_EkOOK9T6yxtA33LwwbAuz&_nc_ohc=405HMreZWzsAX8e4xAs&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfAWAKUV3v66GMbNnFR2Y_I6vGslrvaGcVViJSJP32YeRQ&oe=64E2143F)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singha-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="singha-saikat" /> </p>
 
