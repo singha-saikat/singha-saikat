@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singha-saikat&label=Profile%20views&color=0e75b6&style=flat" alt="singha-saikat" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://singha-saikat.github.io/my-protfolio-web/](https://singha-saikat.github.io/my-protfolio-web/)
 
