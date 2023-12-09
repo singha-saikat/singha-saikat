@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sachinsingha7899@gmail.com**
 
-- ⚡ Fun fact **I love to don't miss a single match of Barcelona**
+- ⚡ Fun fact **I love to play Cricket but watch football match**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
