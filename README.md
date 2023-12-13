@@ -1,4 +1,4 @@
- <img src="./407294548_1044658243510995_337299211906886401_n.png" alt="GitHub Streak"/>
+ <img src="./DSFSS.png" alt="GitHub Streak"/>
 
 <h1 align="center">Hi 👋, I'm Saikat Singha</h1>
 <h3 align="center">A frontend developer from Bangladesh</h3>
